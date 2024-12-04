@@ -1,0 +1,8 @@
+
+  footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #0f3a5f;
+    color: #fff;
+  }
